@@ -23,5 +23,7 @@ int main(){
     display(vec4);
      vector<int> vec5(6,13);
     display(vec5);
+    vector<int> vec5(6,13);
+    display(vec5);
     return 0;
 }
