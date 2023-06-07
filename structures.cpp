@@ -13,7 +13,9 @@ int main(){
         s1.id=1;
         s1.name="Priyanshu";
         s1.state="Delhi";
-
+        s1.id=1;
+        s1.name="Priyanshu";
+        s1.state="Delhi";
         cout<<s1.id<<endl;
         cout<<s1.name<<endl;
         cout<<s1.state<<endl;
